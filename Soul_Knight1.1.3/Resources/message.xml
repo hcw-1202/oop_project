@@ -1,0 +1,33 @@
+﻿<dict>
+    <key>string1</key>
+    <string>英勇的骑士，你现在来到了亚马逊森林迷
+宫，这里是神奇女侠的故乡。小心！左边
+将是葫芦丛林，其中有怪物在伺机而动。
+右边是工字塔，你将在这里和怪物决一死
+战！打败怪兽，会获得补给。出发吧！</string>
+    <key>string2</key>
+    <string>嗨少年，欢迎来到玄冰谷，这里是雪女的
+家乡。曲折环绕的路径，坚固无比的冰墙，
+可以让你借地利与怪物斡旋。注意，通过
+蓝色标记可以让你获得技能疾跑！出发吧！</string>
+    <key>string3</key>
+    <string>嚯嚯嚯！无知的人类，远离德古拉黑暗城
+堡！在这里，你将死无葬身之地！哦？你
+说你是受国王之命而来，请进吧，火把将
+照亮你前方的路！出发把！</string>
+    <key>string4</key>
+    <string>提示：不同的地图在击败小怪后会遇到不同的boss,游戏中的地图是随机出现的，只有打通所有关卡才会获得游戏的胜利。
+           在击败boss后会掉落宝箱，其中含有珍贵补给。</string>
+    <key>onestring</key>
+    <string></string>
+    <key>twostring</key>
+    <string></string>
+    <key>string</key>
+    <string>提示：请及时捡起宝箱，否则就会进入下一个关卡，错失机会。</string>
+    <key>winstring</key>
+    <string>恭喜您获得了游戏的胜利，
+您可以选择再来一局游戏。</string>
+    <key>losestring</key>
+    <string>很遗憾，您在游戏中失败了，
+您可以选择重新开始或者退出游戏。</string>
+</dict>
